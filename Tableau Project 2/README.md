@@ -6,7 +6,7 @@ Mike Goodman, the head of Product Management of a retail products company, is re
 **Screenshot of the Dashboard:** 
 
 
-<img src="Screenshots/Sales Performance Analysis.png" width="600">
+<img src="Screenshots/Sales Performance Analysis.png" width="800">
 
 
 
